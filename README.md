@@ -1,6 +1,8 @@
 EspaKodi para Windows
 =====================
 
+https://espakodi.github.io/exe/
+
 EspaKodi es Kodi en español y ya configurado. Arranca directo en Favoritos y
 trae los addons instalados. Es una distribución NO oficial basada en Kodi; no
 está afiliada ni respaldada por Kodi ni por la Fundación XBMC.
